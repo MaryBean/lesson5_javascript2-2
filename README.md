@@ -20,3 +20,4 @@ This assignment is designed to help students gain a deeper understanding in usin
 1. Javascript arrays are used to store multiple values in a single variable. 
 2. The do/while loop is a variant of the while loop used to execute code block once before checking if the condition is true, then it will repeat the loop as long as the condition is true. 
 3. The break statement breaks the loop and continues executing the code after the loop. 
+# lesson5_javascript2-2
