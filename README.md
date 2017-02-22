@@ -1,26 +1,22 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+## Project Name:  Expense Calculator Application
 
+### Course Title:
+LIS 2360:  Web Application Development
 
-Hi there! Welcome to Cloud9 IDE!
+### Assignment Date:  
+February 22, 2016
 
-To get you started, we included a small hello world application.
+### Student Name:  
+Mary Bean 
 
-1) Open the hello-world.html file
+### Project Description:
+This assignment is designed to help students gain a deeper understanding in using javascript. 
 
-2) Click on the Preview button to open a live preview pane
+### View Project:
+(Replace this statement with your Github Page URL that was created when you 
+ published the project.)
 
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+### Lessons Learned in the Assignment:
+1. Javascript arrays are used to store multiple values in a single variable. 
+2. The do/while loop is a variant of the while loop used to execute code block once before checking if the condition is true, then it will repeat the loop as long as the condition is true. 
+3. The break statement breaks the loop and continues executing the code after the loop. 
