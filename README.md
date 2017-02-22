@@ -13,8 +13,7 @@ Mary Bean
 This assignment is designed to help students gain a deeper understanding in using javascript. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://marybean.github.io/lesson5_javascript2-2/.
 
 ### Lessons Learned in the Assignment:
 1. Javascript arrays are used to store multiple values in a single variable. 
